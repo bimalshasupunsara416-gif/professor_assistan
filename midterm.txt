@@ -1,0 +1,60 @@
+Q: DOS stands for__?
+A: Disk Operating System
+
+Q: When a computer is switched on, the booting process performs__?
+A: Power on self test
+
+Q: COBOL is an acronym for__?
+A: Common Business Oriented Language
+
+Q: What is the extension type of the excel 2007 files?
+A: .xlsx
+
+Q: A DVD is an example of an__?
+A: Optical Disc
+
+Q: Name of 1st electronic computer?
+A: ENIAC
+
+Q: Scientific Name of Computer?
+A: Sillico sapiens
+
+Q: What kind of memory is both static and non -volatile?
+A: ROM
+
+Q: What is the meaning of OSI, in terms of computers ?
+A: Open system Interconnection
+
+Q: What was the chief component of first generation computer?
+A: Vacuum tube & Valves
+
+Q: What is the name of the display feature that highlights are of the screen which requires operator attention?
+A: Reverse Video
+
+Q: Which type of storage device is a BIOS ?
+A: Primary
+
+Q: BCD is __?
+A: Binary Coded Decimal
+
+Q: In which type of computer, data are represented as discrete signals?
+A: Digital Computer
+
+Q: Who is regarded as Father of ��C�� programming language?
+A: Dennis Ritchie
+
+Q: Who is the father of personal computer?
+A: Edward Robert
+
+Q: A modem is connected to a__?
+A: Telephone Line
+
+Q: The common name for the crime of stealing passwords is__?
+A: Spoofing
+
+Q: To move a copy of file from one computer to another over a communication channel is called?
+A: File Transfer
+
+Q: Which programming languages are classified as low level languages?
+A: Assembly Language
+
